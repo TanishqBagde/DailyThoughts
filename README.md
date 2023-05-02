@@ -35,5 +35,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@sauravsilawat](https://www.frontendmentor.io/profile/sauravsilawat)
-- Twitter - [@sauravsilawat](https://www.twitter.com/sauravsilawat)
+- Frontend Mentor - [Tanishq bagde]
+- Twitter - [Tanishq Bagde]
