@@ -24,8 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://advice-generator-saurav.netlify.app/](https://advice-generator-saurav.netlify.app/)
+- Live Site URL: [https://tanishqbagde-dailythoughts9.netlify.app](https://tanishqbagde-dailythoughts9.netlify.app/)
 
 ### Built with
 
